@@ -55,6 +55,6 @@ if __name__ == '__main__':
             "Programming Language :: Python :: 3.1",
             "Topic :: Software Development :: Libraries :: Python Modules",
             ],
-        long_description = readme,
+        #long_description = readme,
         )
 
