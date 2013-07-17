@@ -25,9 +25,9 @@ smhasher_ext = Extension('smhasher',
 
 if __name__ == '__main__':
     # load README.txt for the long description
-    cwd = os.path.dirname(os.path.abspath(__file__))
-    path = os.path.join(cwd, 'README.txt')
-    readme = open(path, 'rb').read()
+    #cwd = os.path.dirname(os.path.abspath(__file__))
+    #path = os.path.join(cwd, 'README.txt')
+    #readme = open(path, 'rb').read()
 
     # call setup
     setup(
